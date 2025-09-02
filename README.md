@@ -169,6 +169,10 @@ Developed by **Chitrala.Sai Siddharth Kumar** as a learning project for **Java D
 Here is the visual flow of the CRUD operations:
 
 ![Flowchart](https://raw.githubusercontent.com/SiddharthChitrala/Jdbc_practice/main/images/flowchart.png)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9ade25b9e593daecbf25224f52aa99ca74591c19
 
 
 
