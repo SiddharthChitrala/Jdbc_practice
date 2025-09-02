@@ -166,12 +166,11 @@ Developed by **Chitrala.Sai Siddharth Kumar** as a learning project for **Java D
 ```
 
 
-
 ## 📊 Flowchart  
-Here is the visual flow of the CRUD operations:  
+
+Here is the visual flow of the CRUD operations:
 
 ![Flowchart](https://raw.githubusercontent.com/SiddharthChitrala/Jdbc_practice/main/images/flowchart.png)
-
 
 
 
