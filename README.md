@@ -170,7 +170,7 @@ Developed by **Chitrala.Sai Siddharth Kumar** as a learning project for **Java D
 
 Here is the visual flow of the CRUD operations:
 
-![Flowchart](https://github.com/SiddharthChitrala/Jdbc_practice/main/images/flowchart.png)
+![Flowchart](https://raw.githubusercontent.com/SiddharthChitrala/Jdbc_practice/main/images/flowchart.png)
 
 
 
