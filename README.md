@@ -168,7 +168,7 @@ Developed by **Chitrala.Sai Siddharth Kumar** as a learning project for **Java D
 
 
 More visual flow chart
-![Flowchart](images/flowcharts.png)
+![Flowchart](images/flowchart.png)
 
 
 
