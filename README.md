@@ -159,16 +159,6 @@ This project is open-source. You can modify and use it freely for learning purpo
 
 ---
 
-## 📷 Screenshots (Optional)
-
-You can add screenshots of:
-
-* MySQL table output
-* Console program menu
-* MongoDB output in the terminal
-
----
-
 ## ✨ Author
 
 Developed by **Chitrala.Sai Siddharth Kumar** as a learning project for **Java Database Connectivity**.
