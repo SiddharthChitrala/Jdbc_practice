@@ -177,6 +177,6 @@ Developed by **\Chitrala.Sai Siddharth Kumar** as a learning project for **Java 
 
 ---
 More visual flow chart
-![Flowchart](images/flowcharts.png)
+images/flowcharts.png
 
 ```
