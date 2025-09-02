@@ -164,11 +164,14 @@ This project is open-source. You can modify and use it freely for learning purpo
 Developed by **Chitrala.Sai Siddharth Kumar** as a learning project for **Java Database Connectivity**.
 
 
-## 📊 Flowchart  
 
-Here is the visual flow of the CRUD operations:
+<h3>📊 Flowchart</h3>
+<p>Here is the visual flow of the CRUD operations:</p>
+<a href="https://raw.githubusercontent.com/SiddharthChitrala/Jdbc_practice/main/images/flowchart.png" target="_blank">
+  <img src="https://raw.githubusercontent.com/SiddharthChitrala/Jdbc_practice/main/images/flowchart.png" alt="Flowchart" width="400"/>
+</a>
 
-![Flowchart](https://raw.githubusercontent.com/SiddharthChitrala/Jdbc_practice/main/images/flowchart.png)
+
 
 
 
