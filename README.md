@@ -171,12 +171,12 @@ You can add screenshots of:
 
 ## ✨ Author
 
-Developed by **\[Chitrala.Sai Siddharth Kumar]** as a learning project for **Java Database Connectivity**.
+Developed by **\Chitrala.Sai Siddharth Kumar** as a learning project for **Java Database Connectivity**.
 
 ```
 
 ---
 More visual flow chart
-![Flowchart](flowchart.png)
+![Flowchart](images/flowchart.png)
 
 ```
